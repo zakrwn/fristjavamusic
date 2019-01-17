@@ -1,0 +1,6 @@
+﻿token= NTM1NTMzMzM0NTI5NDQxODMx.DyJh1w.ZaLlAifKtYSLbznTRoCAGUpeUjs
+owner= 535533334529441831
+prefix= z
+game= zhelp
+stayinchannel=true
+songinstatus=true 
